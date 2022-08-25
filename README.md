@@ -14,8 +14,12 @@ Projeyi cloneladıktan sonra dilediğiniz IDE'de açınız.
 ![Image](./project.png)
 Linux için: 
 
-``` cd kodluyoruzilkrepo
-code  ```
+``` 
+
+cd kodluyoruzilkrepo
+code  
+
+````
 
 ## Contributing
 
